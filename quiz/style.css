@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    #e07d7d 0%,
+    #bbc1bf 19%,
+    #57c6e1 42%,
+    #b49fda 79%,
+    #7ac5d8 100%
+  );
+  text-align: center !important;
+
+}
+.col-md-7{
+    margin-top: 75px !important;
+    background-color: #e7d5d5;
+    padding: 20px;
+}
+h1{
+    background-color: rgb(57, 209, 209);
+    color: rgb(255, 255, 255) !important;
+}
+input, label{
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
+}
